@@ -43,8 +43,11 @@ Differential amplifier
 
 ## TABULATION:
 
+<img width="532" height="325" alt="image" src="https://github.com/user-attachments/assets/89cf533b-ad53-422d-8869-1e6807d91d73" />
 
 ## GRAPH:
 
+<img width="540" height="572" alt="image" src="https://github.com/user-attachments/assets/07763e31-b300-49c7-ba54-5a798bb9351e" />
 
 ## RESULT:                   
+Thus,the design of differential amplifier is executed and output verified successfully
